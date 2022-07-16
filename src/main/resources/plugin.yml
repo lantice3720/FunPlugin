@@ -1,0 +1,7 @@
+name: FunPlugin
+version: '${version}'
+main: kr.kro.lanthanide.funplugin.FunPlugin
+api-version: 1.18
+prefix: FunPlugin
+authors: [ lanthanide ]
+description: Just for fun..
